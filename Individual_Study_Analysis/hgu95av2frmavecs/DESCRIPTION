@@ -1,0 +1,10 @@
+Package: hgu95av2frmavecs
+Title: Vectors used by frma for microarrays of type hgu95av2
+Version: 1.0.2
+Created: Tue Jul  3 15:21:10 2012
+Author: Matthew N. McCall <mmccall@jhsph.edu>
+Description: This package was automatically created by package frmaTools version 1.8.0.
+Maintainer: Fayaz T. Seifuddin <fseifud1@jhmi.edu>
+Depends: R (>= 2.10.0)
+License: GPL (>= 2)
+biocViews: AnnotationData, AffymetrixChip, hgu95av2, Hsapiens

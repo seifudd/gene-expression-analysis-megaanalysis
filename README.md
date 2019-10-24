@@ -1,4 +1,4 @@
-# gene-expression-analysis-megaanalysis
+# microarray-gene-expression-analysis-megaanalysis
 Additional files for "Systematic Review of Genome-wide Gene Expression Studies of Bipolar Disorder, Seifuddin et al.
 https://bmcpsychiatry.biomedcentral.com/articles/10.1186/1471-244X-13-213
 
